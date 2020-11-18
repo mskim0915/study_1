@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+  <title>김민수 두 번째 연습</title>
+  <meta charset = "utf-8">
+</head>
+
+<body>
+  <h1>1번째 연습</h>
+    <ol>
+      <li>코딩</li>
+      <li>연습</li>
+    </ol>
+</html>
